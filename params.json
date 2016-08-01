@@ -1,0 +1,6 @@
+{
+  "name": "Emugba.GitHub.io",
+  "tagline": "EmuGBA is a GBA emulator for all iOS 5 and up. Run this page on your iOS Safari and add to your home screen. Created by Tomo Yamamoto.",
+  "body": "### Welcome to EmuGBA repository page!\r\nClick here to download EmuGBA for iOS devices.\r\nCreate a Google Account. You will need it when adding a ROM.\r\nCreated by Tomo Yamamoto for a computer science project on HTML5 emulator.\r\n\r\n### Features\r\nVersion 1.5\r\n* Remembers your ROM save state allowing you to continue playing where you left off.\r\n* 8-bit audio.\r\n* Store all your Game Boy and Game Boy Color ROM and cover art in Google Drive.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
